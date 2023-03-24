@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436248207428",
+    "project_id": "flutter-sio",
+    "storage_bucket": "flutter-sio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436248207428:android:e8de2928914d50ad32dc11",
+        "android_client_info": {
+          "package_name": "com.example.flu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436248207428-qdkjs361mnmhqvle9bu559k2r695vf4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-k5UG10rsn-fvKbj7xU-Hu-cmgyrR-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436248207428-qdkjs361mnmhqvle9bu559k2r695vf4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
