@@ -1,16 +1,6 @@
-# flu_app
+Goldfish Music is an android application project start in march 2022 and create via flutter.
 
-A new Flutter project.
+This works via Firebase and allows you to stream royalty-free music.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project is 100% made by myself but this one is not finished.
