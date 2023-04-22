@@ -1,6 +1,5 @@
-Goldfish Music is an android application project start in march 2023 and create via flutter.
+Goldfish Music is an Android application project that started in March 2023 and was created using Flutter.
 
-This works with a cloud database (Firebase) and allows you to stream royalty-free music.
+It works with a cloud database (Firebase) and allows you to stream royalty-free music.
 
-
-The project is 100% made by myself but this one is not finished.
+The project was 100% created by myself, but it is not finished
